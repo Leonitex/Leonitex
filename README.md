@@ -6,6 +6,21 @@ I'm a Computer Science student from Trinidad and Tobago with a practical backgro
 
 My current focus is software development, practical AI applications, Android development, game development, debugging, testing, and agent-assisted engineering workflows.
 
+## 🔎 Public project evidence
+
+My main development repositories are private, but I publish **sanitized technical evidence** so reviewers can inspect concrete work without exposing private source, credentials, personal data, unreleased content or signing material.
+
+➡️ **[View project verification evidence](PROJECT_EVIDENCE.md)**
+
+The evidence currently includes:
+
+- **CyberKnight:** playable Chapter 0 route and regression-check results.
+- **CatScan:** Android/ML Kit implementation scope and successful APK build-pipeline evidence.
+- **Echo Atlas:** Godot test report, rendered UI validation, save checks and signed-APK verification.
+- **JarvisCall:** endpoint, Worker/D1/CLI and protocol test results plus security-review boundaries.
+
+Automated checks are labeled as automated checks, and device/human testing is only claimed where it actually occurred.
+
 ## What I'm building
 
 ### 🛡️ CyberKnight
