@@ -2,10 +2,13 @@
 
 This page summarizes several projects I am actively developing. The main repositories are private while they are being built and reviewed, so this portfolio focuses on the problem each project is trying to solve, the systems involved, and what I am learning from the work.
 
+For concrete test/build evidence, see the **[public project evidence index](PROJECT_EVIDENCE.md)**.
+
 ## CyberKnight
 
 **Status:** In active development  
-**Type:** Educational RPG / technical learning project
+**Type:** Educational RPG / technical learning project  
+**Evidence:** [CyberKnight verification snapshot](evidence/CYBERKNIGHT.md)
 
 CyberKnight is an educational RPG built around the idea that technical learning can be part of gameplay rather than a separate lesson screen.
 
@@ -32,7 +35,8 @@ CyberKnight has been one of my main ways of practicing how to break a large idea
 ## CatScan
 
 **Status:** In active development  
-**Type:** Android budgeting and expense-management application
+**Type:** Android budgeting and expense-management application  
+**Evidence:** [CatScan verification snapshot](evidence/CATSCAN.md)
 
 CatScan started from a practical budgeting problem: receipts and everyday spending are often tedious to enter correctly. The project explores how an Android application can make that process easier through receipt scanning, structured extraction, categorization, and budgeting workflows.
 
@@ -58,7 +62,8 @@ CatScan has pushed me to think about software less as a collection of features a
 ## Echo Atlas
 
 **Status:** In development / playtesting  
-**Type:** Game-development project
+**Type:** Game-development project  
+**Evidence:** [Echo Atlas verification snapshot](evidence/ECHO_ATLAS.md)
 
 Echo Atlas is a Godot-based game project that I use to practice gameplay implementation, visual iteration, Android deployment, testing, and release validation.
 
@@ -82,7 +87,8 @@ The project has given me experience in validating a playable build as a whole ra
 ## JarvisCall
 
 **Status:** Experimental development  
-**Type:** Android AI-assistant workflow
+**Type:** Android AI-assistant workflow  
+**Evidence:** [JarvisCall verification snapshot](evidence/JARVISCALL.md)
 
 JarvisCall explores how an assistant could proactively deliver a contextual briefing through a call-like experience, request approval when necessary, and preserve enough context to continue the work afterwards.
 
