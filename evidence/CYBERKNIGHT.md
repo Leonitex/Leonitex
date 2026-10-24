@@ -4,6 +4,12 @@
 **Primary stack:** Godot, GDScript, Python, Git/GitHub  
 **Source repository:** Private active-development repository
 
+## Visual evidence
+
+![CyberKnight Chapter 0 prototype scenes](../assets/evidence/cyberknight-prototype-scenes.jpg)
+
+*Chapter 0 prototype environment art used by the playable vertical-slice scenes: the alternate-world opening path and Joe's workshop. These are prototype scene assets, not final production art or claims of final runtime presentation.*
+
 ## What exists
 
 CyberKnight has a playable Chapter 0 route that begins with character setup, moves through an illustrated bedroom/work sequence, transitions into the alternate world, introduces the companion character, and ends with an evidence-first relay troubleshooting challenge and chapter-end save checkpoint.
