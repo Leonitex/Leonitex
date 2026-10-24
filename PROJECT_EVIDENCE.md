@@ -2,9 +2,9 @@
 
 This page provides a public, sanitized evidence layer for projects that are actively developed in private repositories.
 
-The goal is to show concrete engineering work without exposing private source code, credentials, personal data, unreleased story material, or signing material. Each evidence page is based on files, test reports, build records, or implementation artifacts from the corresponding private repository.
+The goal is to show concrete engineering work without exposing private source code, credentials, personal data, unreleased story material, or signing material. Each evidence page is based on files, test reports, build records, implementation artifacts, or carefully selected project visuals from the corresponding private repository.
 
-> **Evidence policy:** automated checks are described as automated checks; simulations are described as simulations; device or human testing is only claimed when it actually happened. Private source can be shared selectively with reviewers if needed.
+> **Evidence policy:** automated checks are described as automated checks; simulations are described as simulations; prototype art is labelled as prototype art; device or human testing is only claimed when it actually happened. Private source can be shared selectively with reviewers if needed.
 
 ## Projects
 
@@ -15,6 +15,7 @@ A Godot educational RPG that integrates Python, cybersecurity, and practical IT 
 **Public evidence:** [CyberKnight verification snapshot](evidence/CYBERKNIGHT.md)
 
 Published evidence includes:
+- Chapter 0 prototype environment visuals from the playable-slice scenes,
 - a complete playable Chapter 0 route,
 - evidence-first troubleshooting mechanics,
 - save/load behavior,
@@ -42,6 +43,7 @@ A Godot game-development project used to practice gameplay implementation, UI va
 **Public evidence:** [Echo Atlas verification snapshot](evidence/ECHO_ATLAS.md)
 
 Published evidence includes:
+- rendered verification captures from the tested UI journey,
 - Godot import validation,
 - thousands of automated assertions across scenario groups,
 - rendered UI journey checks,
