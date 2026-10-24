@@ -6,9 +6,9 @@
 
 ## Visual evidence
 
-![Echo Atlas rendered verification captures](../assets/evidence/echo-atlas-verification.jpg)
+![Echo Atlas title capture](../assets/evidence/echo-atlas-title.jpg)
 
-*Rendered verification captures from the v0.2.0 automated UI journey: an opening sequence and a boss encounter. These are automated-review captures from the tested build, not claims of physical Android-device testing or human playtesting.*
+*Sanitized thumbnail derived from an actual rendered v0.2.0 verification capture. It is automated-build evidence, not a claim of physical Android-device testing or human playtesting.*
 
 ## Verification record
 
