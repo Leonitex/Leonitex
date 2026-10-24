@@ -4,6 +4,12 @@
 **Primary stack:** Godot 4.5.1, GDScript, Android export tooling, Git/GitHub  
 **Source repository:** Private active-development repository
 
+## Visual evidence
+
+![Echo Atlas rendered verification captures](../assets/evidence/echo-atlas-verification.jpg)
+
+*Rendered verification captures from the v0.2.0 automated UI journey: an opening sequence and a boss encounter. These are automated-review captures from the tested build, not claims of physical Android-device testing or human playtesting.*
+
 ## Verification record
 
 A retained v0.2.0 verification report dated **3 October 2026** records a tested candidate with the following results:
