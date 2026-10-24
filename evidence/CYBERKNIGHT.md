@@ -6,9 +6,9 @@
 
 ## Visual evidence
 
-![CyberKnight Chapter 0 prototype scenes](../assets/evidence/cyberknight-prototype-scenes.jpg)
+![CyberKnight Chapter 0 bedroom scene](../assets/evidence/cyberknight-bedroom.jpg)
 
-*Chapter 0 prototype environment art used by the playable vertical-slice scenes: the alternate-world opening path and Joe's workshop. These are prototype scene assets, not final production art or claims of final runtime presentation.*
+*Sanitized thumbnail of the illustrated bedroom scene asset used by the playable Chapter 0 vertical slice. It is shown as development evidence, not as a claim of final production art.*
 
 ## What exists
 
